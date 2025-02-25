@@ -7,3 +7,5 @@ Ahora he añadido ora linea para demostrar como funciona fetch.
 
 He añadido otra linea para demostrar como funciona pull
 
+edito esto para probar que no puedo hacer un push sin anter hacer un pull
+
